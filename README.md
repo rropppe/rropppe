@@ -1,4 +1,4 @@
-  Halo✌️I'm Sergey 
+  Halo✌️I'm Sergey Eremeev
 ---------------------------------------
 - 👋 @rropppe aka imightjustod
 - 👁️️️️️️ coding, making music
