@@ -22,7 +22,7 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 
-<h3>Social</h3>
+<h2>Social</h2>
 
 [![vk](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/imightjustod)
 [![inst](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rropppe?igshid=NzZlODBkYWE4Ng==)
