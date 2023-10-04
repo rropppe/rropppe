@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @rropppe aka imightjustod
-- 👀 I’m interested in coding, games and making a music
-- 🌱 I’m currently learning HTML, CSS, JS and sometimes reading SWIFT book
-- 📫 How to reach me ropeforwork@gmail.com
+Halo✌️I'm Sergey 
+---------------------------------------
+- 👋 @rropppe aka imightjustod
+- 👁️️️️️️ coding, making music
+- 🧳 HTML, CSS, JS...in progress
+- 📫 u can hit me at email - ropeforwork@gmail.com or in social
 
 <!---
 rropppe/rropppe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
