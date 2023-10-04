@@ -1,6 +1,6 @@
   Halo✌️I'm Sergey 
 ---------------------------------------
-- 👋 @rropppe aka [imightjustod](https://instagram.com/rropppe?igshid=NzZlODBkYWE4Ng==)
+- 👋 @rropppe aka imightjustod
 - 👁️️️️️️ coding, making music
 - 🧳 **HTML, CSS, JS**...*in progress*
 - 📫 u can hit me at email - ***ropeforwork@gmail.com*** or in social
