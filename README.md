@@ -23,6 +23,12 @@
 
 [![vk](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/imightjustod)
 [![inst](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rropppe?igshid=NzZlODBkYWE4Ng==)
+
+
+  *if u click on the icon u will be taken to my social*
+
+
+-----------------------------------------
 <!---
 rropppe/rropppe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
