@@ -2,7 +2,6 @@
 ---------------------------------------
 - 👋 @rropppe aka imightjustod
 - 👁️️️️️️ coding, making music
-- 🧳 **HTML, CSS, JS**...*in progress*
 - 📫 u can hit me at email - ***ropeforwork@gmail.com*** or in social
 
 
